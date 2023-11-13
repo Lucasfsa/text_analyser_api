@@ -1,0 +1,1 @@
+9999999999{"name": "app", "version": "0.0.1", "summary": "a simple egg", "requires_dist": null, "requires_python": null, "files": [{"file": "app-0.0.1.zip", "hash": "sha256:214549e746d777292d807eec7713c2cea332e08e037c923cd61ee1d5ab7a127f"}], "yanked": false, "_cache_version": "2.0.0"}

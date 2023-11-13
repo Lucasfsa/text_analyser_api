@@ -1,0 +1,1 @@
+9999999999{"name": "googletrans", "version": "3.0.0", "summary": "Free Google Translate API for Python. Translates totally free of charge.", "requires_dist": ["httpx==0.13.3"], "requires_python": null, "files": [{"file": "googletrans-3.0.0.tar.gz", "hash": "sha256:44caeea42d91ff6ead5c2d49db2b88de66c45c2fe874c8ec03eb9b4ceb3a533d"}], "yanked": false, "_cache_version": "2.0.0"}

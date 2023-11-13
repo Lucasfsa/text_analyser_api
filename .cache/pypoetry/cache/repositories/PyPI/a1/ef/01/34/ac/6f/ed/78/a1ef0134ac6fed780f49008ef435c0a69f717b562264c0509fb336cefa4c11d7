@@ -1,0 +1,1 @@
+9999999999{"name": "jsbeautifier", "version": "1.10.3", "summary": "JavaScript unobfuscator and beautifier.", "requires_dist": ["six>=1.13.0", "editorconfig>=0.12.2"], "requires_python": null, "files": [{"file": "jsbeautifier-1.10.3.tar.gz", "hash": "sha256:978ee8fd057190ed414918cf689e6045185402a36113d93463958b8a4d895d29"}], "yanked": false, "_cache_version": "2.0.0"}
